@@ -3,3 +3,7 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - xarray
+  - glob
+  - os
+  - pathlib
