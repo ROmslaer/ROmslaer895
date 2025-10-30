@@ -5,3 +5,4 @@ dependencies:
   - pandas
   - xarray
   - pathlib
+  - netCDF4
