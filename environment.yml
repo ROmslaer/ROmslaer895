@@ -4,6 +4,4 @@ dependencies:
   - matplotlib
   - pandas
   - xarray
-  - glob
-  - os
   - pathlib
