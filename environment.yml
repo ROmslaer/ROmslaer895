@@ -5,11 +5,12 @@ dependencies:
   - python=3.11
   - numpy
   - pandas
+  - scipy
   - matplotlib
   - xarray
-  - netCDF4
-  - h5netcdf
-  - scipy
-  - scikit-learn
+  - netcdf4
+  - libnetcdf
+  - h5py
+  - cftime
   - pymannkendall
   - jupyterlab
