@@ -14,3 +14,4 @@ dependencies:
   - cftime
   - pymannkendall
   - jupyterlab
+  - scikit-learn
