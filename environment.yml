@@ -1,8 +1,15 @@
-name: final project
+name: final-project
+channels:
+  - conda-forge
 dependencies:
+  - python=3.11
   - numpy
-  - matplotlib
   - pandas
+  - matplotlib
   - xarray
-  - pathlib
   - netCDF4
+  - h5netcdf
+  - scipy
+  - scikit-learn
+  - pymannkendall
+  - jupyterlab
